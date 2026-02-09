@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "cd university-schedule && npm install && npm run build"
+  }
+}
